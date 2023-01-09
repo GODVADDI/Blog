@@ -1,16 +1,16 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
+title: About me
+description: May the force be with you - or not
 slug: hello-world
 date: 2022-03-06 00:00:00+0000
 image: cover.jpg
 categories:
-    - Example Category
+    - General
 tags:
-    - Example Tag
+    - About me
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+"This is my first Blog Post!"
 
 For more information about this theme, check the documentation: https://docs.stack.jimmycai.com/
 
