@@ -15,11 +15,6 @@ lastUpdated = "Jan 11, 2023 15:04 MST"
 emoji = "🚀"
 subtitle = "Endpoint Managment Enthusiast, Boss"
 
-[sidebar.avatar]
-enabled = true
-local = true
-src = "img/avatar2.png"
-
 [article]
 math = false
 readingTime = true
