@@ -11,7 +11,7 @@ tags:
 ---
 
 
-```
+``` powershell
 $acl1 = Get-Acl "HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders\"
 #$person = [System.Security.Principal.NTAccount]"all application packages" ##S-1-15-2-1
 $sid = New-Object System.Security.Principal.SecurityIdentifier ("S-1-15-2-1")
